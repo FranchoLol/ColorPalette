@@ -6,6 +6,9 @@ body {
   background-color: #1b0a2a;
   font-weight: bold;
   font-family: "Lexend", sans-serif;
+  display: flex;
+  flex-direction: column;
+  user-select: none;
 }
 ::-webkit-scrollbar {
   width: 10px;
@@ -47,12 +50,11 @@ h1 {
   font-size: 40px;
   font-weight: 900;
   font-style: italic;
-  text-shadow: 0 0 5px #ff6a88,
-               2px 2px 0 #ff99ac;
+  text-shadow: 0 0 5px #ff6a88, 2px 2px 0 #ff99ac;
   color: #ff99ac;
-  user-select: none;
 }
 main {
+  flex: 1;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -65,11 +67,9 @@ main {
   padding: 10px;
   text-align: center;
   border: 1px solid #2e1a47;
-  box-shadow: 0 0 5px 2px #cc3f0c,
-              0 0 5px 1px #2e1a47;
+  box-shadow: 0 0 5px 2px #cc3f0c, 0 0 5px 1px #2e1a47;
   border-radius: 20px;
   background-color: #2e1a47;
-  user-select: none;
   transform-style: preserve-3d;
   transition: transform 0.1s ease;
 }
@@ -94,8 +94,7 @@ main {
   justify-content: center;
   font-weight: bold;
   border: 1px solid #ccc;
-  box-shadow: 0 0 5px 2px #cc3f0c,
-              0 0 5px 1px #aaa;
+  box-shadow: 0 0 5px 2px #cc3f0c, 0 0 5px 1px #aaa;
   margin: 0 auto;
   transition: transform 0.3s ease;
 }
@@ -138,4 +137,40 @@ main {
 }
 .msg.show {
   display: block;
+}
+footer {
+  width: 100%;
+  background-color: #2e1a47;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
+}
+.footer-left {
+  display: flex;
+  margin-left: 40px;
+}
+.footer-links {
+  list-style-type: "⟪⤐ ";
+  margin: 5px;
+  padding: 0;
+}
+.footer-links li {
+  margin: 10px 0;
+}
+.footer-links a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+.footer-links a:hover,
+.footer-links:not(:hover) {
+  color: #ffa1b4;
+}
+.footer-right {
+  text-align: right;
+  margin-right: 20px;
+  margin-top: auto;
 }
