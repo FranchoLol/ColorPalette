@@ -1,0 +1,917 @@
+{
+  "palettes": [
+    {
+      "name": "Nocturno Acuático",
+      "colors": [
+        { "hex": "#8ecaeb", "textColor": "#000" },
+        { "hex": "#2aeefe", "textColor": "#000" },
+        { "hex": "#223131", "textColor": "#fff" },
+        { "hex": "#222244", "textColor": "#fff" },
+        { "hex": "#222222", "textColor": "#fff" },
+        { "hex": "#000011", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Crepúsculo Místico",
+      "colors": [
+        { "hex": "#ff9a8b", "textColor": "#000" },
+        { "hex": "#ff6a88", "textColor": "#000" },
+        { "hex": "#ff99ac", "textColor": "#000" },
+        { "hex": "#cc3f0c", "textColor": "#fff" },
+        { "hex": "#2e1a47", "textColor": "#fff" },
+        { "hex": "#1b0a2a", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Aurora Boreal",
+      "colors": [
+        { "hex": "#a8e6cf", "textColor": "#000" },
+        { "hex": "#dcedc1", "textColor": "#000" },
+        { "hex": "#ffd3b6", "textColor": "#000" },
+        { "hex": "#ffaaa5", "textColor": "#000" },
+        { "hex": "#ff8b94", "textColor": "#000" },
+        { "hex": "#d4a5a5", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Selva Tropical",
+      "colors": [
+        { "hex": "#4caf50", "textColor": "#000" },
+        { "hex": "#8bc34a", "textColor": "#000" },
+        { "hex": "#cddc39", "textColor": "#000" },
+        { "hex": "#ffeb3b", "textColor": "#000" },
+        { "hex": "#ffc107", "textColor": "#000" },
+        { "hex": "#ff9800", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Tropical Vibes",
+      "colors": [
+        { "hex": "#ff6f61", "textColor": "#000" },
+        { "hex": "#ffcc5c", "textColor": "#000" },
+        { "hex": "#88d8b0", "textColor": "#000" },
+        { "hex": "#ff6f61", "textColor": "#000" },
+        { "hex": "#353535", "textColor": "#fff" },
+        { "hex": "#ffffff", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Ocean Breeze",
+      "colors": [
+        { "hex": "#005f73", "textColor": "#fff" },
+        { "hex": "#0a9396", "textColor": "#fff" },
+        { "hex": "#94d2bd", "textColor": "#000" },
+        { "hex": "#e9d8a6", "textColor": "#000" },
+        { "hex": "#ee9b00", "textColor": "#000" },
+        { "hex": "#ffffff", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "colors": [
+        { "hex": "#6b4226", "textColor": "#fff" },
+        { "hex": "#936639", "textColor": "#fff" },
+        { "hex": "#c3a995", "textColor": "#000" },
+        { "hex": "#8a5a44", "textColor": "#fff" },
+        { "hex": "#2d2d2a", "textColor": "#fff" },
+        { "hex": "#ffffff", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Modern Minimalist",
+      "colors": [
+        { "hex": "#222831", "textColor": "#fff" },
+        { "hex": "#393e46", "textColor": "#fff" },
+        { "hex": "#00adb5", "textColor": "#fff" },
+        { "hex": "#aad8d3", "textColor": "#000" },
+        { "hex": "#eeeeee", "textColor": "#000" },
+        { "hex": "#222831", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Sunset Glow",
+      "colors": [
+        { "hex": "#ff4500", "textColor": "#fff" },
+        { "hex": "#ff6347", "textColor": "#fff" },
+        { "hex": "#ffd700", "textColor": "#000" },
+        { "hex": "#ffecb3", "textColor": "#000" },
+        { "hex": "#2f4f4f", "textColor": "#fff" },
+        { "hex": "#ffffff", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Forest Whisper",
+      "colors": [
+        { "hex": "#2e4600", "textColor": "#fff" },
+        { "hex": "#486b00", "textColor": "#fff" },
+        { "hex": "#a2c523", "textColor": "#000" },
+        { "hex": "#ebf7e4", "textColor": "#000" },
+        { "hex": "#283618", "textColor": "#fff" },
+        { "hex": "#ffffff", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Winter Frost",
+      "colors": [
+        { "hex": "#0b3d91", "textColor": "#fff" },
+        { "hex": "#1c77c3", "textColor": "#fff" },
+        { "hex": "#39a9db", "textColor": "#fff" },
+        { "hex": "#40bcd8", "textColor": "#000" },
+        { "hex": "#f4f4f4", "textColor": "#000" },
+        { "hex": "#333333", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Autumn Leaves",
+      "colors": [
+        { "hex": "#8b0000", "textColor": "#fff" },
+        { "hex": "#b22222", "textColor": "#fff" },
+        { "hex": "#daa520", "textColor": "#000" },
+        { "hex": "#ff8c00", "textColor": "#000" },
+        { "hex": "#fffaf0", "textColor": "#000" },
+        { "hex": "#2f4f4f", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Spring Blossom",
+      "colors": [
+        { "hex": "#ffb6c1", "textColor": "#000" },
+        { "hex": "#ff69b4", "textColor": "#000" },
+        { "hex": "#ff1493", "textColor": "#fff" },
+        { "hex": "#db7093", "textColor": "#fff" },
+        { "hex": "#f0f8ff", "textColor": "#000" },
+        { "hex": "#000000", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Retro Pop",
+      "colors": [
+        { "hex": "#ff6f00", "textColor": "#fff" },
+        { "hex": "#ffcc00", "textColor": "#000" },
+        { "hex": "#8e44ad", "textColor": "#fff" },
+        { "hex": "#2980b9", "textColor": "#fff" },
+        { "hex": "#ecf0f1", "textColor": "#000" },
+        { "hex": "#2c3e50", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Soft Pastels",
+      "colors": [
+        { "hex": "#ffadc6", "textColor": "#000" },
+        { "hex": "#ffd1dc", "textColor": "#000" },
+        { "hex": "#e0bbff", "textColor": "#000" },
+        { "hex": "#bbd0ff", "textColor": "#000" },
+        { "hex": "#e0ffe0", "textColor": "#000" },
+        { "hex": "#000000", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Bold & Bright",
+      "colors": [
+        { "hex": "#ff0000", "textColor": "#fff" },
+        { "hex": "#ff8000", "textColor": "#000" },
+        { "hex": "#ffff00", "textColor": "#000" },
+        { "hex": "#00ff00", "textColor": "#000" },
+        { "hex": "#0000ff", "textColor": "#fff" },
+        { "hex": "#ffffff", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Elegant Neutrals",
+      "colors": [
+        { "hex": "#d3d3d3", "textColor": "#000" },
+        { "hex": "#a9a9a9", "textColor": "#000" },
+        { "hex": "#808080", "textColor": "#000" },
+        { "hex": "#696969", "textColor": "#fff" },
+        { "hex": "#2f4f4f", "textColor": "#fff" },
+        { "hex": "#000000", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Cool Blues",
+      "colors": [
+        { "hex": "#e0f7fa", "textColor": "#000" },
+        { "hex": "#b2ebf2", "textColor": "#000" },
+        { "hex": "#80deea", "textColor": "#000" },
+        { "hex": "#4dd0e1", "textColor": "#fff" },
+        { "hex": "#26c6da", "textColor": "#fff" },
+        { "hex": "#00acc1", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Warm Sunset",
+      "colors": [
+        { "hex": "#ffccbc", "textColor": "#000" },
+        { "hex": "#ffab91", "textColor": "#000" },
+        { "hex": "#ff8a65", "textColor": "#000" },
+        { "hex": "#ff5722", "textColor": "#fff" },
+        { "hex": "#e64a19", "textColor": "#fff" },
+        { "hex": "#d32f2f", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Forest Greens",
+      "colors": [
+        { "hex": "#e8f5e9", "textColor": "#000" },
+        { "hex": "#c8e6c9", "textColor": "#000" },
+        { "hex": "#a5d6a7", "textColor": "#000" },
+        { "hex": "#81c784", "textColor": "#000" },
+        { "hex": "#4caf50", "textColor": "#fff" },
+        { "hex": "#388e3c", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Retro Shades",
+      "colors": [
+        { "hex": "#ffeb3b", "textColor": "#000" },
+        { "hex": "#ff9800", "textColor": "#000" },
+        { "hex": "#f44336", "textColor": "#fff" },
+        { "hex": "#3f51b5", "textColor": "#fff" },
+        { "hex": "#9c27b0", "textColor": "#fff" },
+        { "hex": "#2196f3", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Pastel Dreams",
+      "colors": [
+        { "hex": "#ffdfdf", "textColor": "#000" },
+        { "hex": "#ffd1dc", "textColor": "#000" },
+        { "hex": "#d0e8f2", "textColor": "#000" },
+        { "hex": "#d0f2d0", "textColor": "#000" },
+        { "hex": "#f2f2d0", "textColor": "#000" },
+        { "hex": "#f2d0f2", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Urban Jungle",
+      "colors": [
+        { "hex": "#4caf50", "textColor": "#fff" },
+        { "hex": "#8bc34a", "textColor": "#000" },
+        { "hex": "#cddc39", "textColor": "#000" },
+        { "hex": "#ffeb3b", "textColor": "#000" },
+        { "hex": "#ffc107", "textColor": "#000" },
+        { "hex": "#ff5722", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Cosmic Space",
+      "colors": [
+        { "hex": "#1a1a2e", "textColor": "#fff" },
+        { "hex": "#16213e", "textColor": "#fff" },
+        { "hex": "#0f3460", "textColor": "#fff" },
+        { "hex": "#53354a", "textColor": "#fff" },
+        { "hex": "#ff6f61", "textColor": "#fff" },
+        { "hex": "#f9a825", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Tropical Vibes",
+      "colors": [
+        { "hex": "#ff5722", "textColor": "#fff" },
+        { "hex": "#ff9800", "textColor": "#000" },
+        { "hex": "#ffeb3b", "textColor": "#000" },
+        { "hex": "#4caf50", "textColor": "#fff" },
+        { "hex": "#2196f3", "textColor": "#fff" },
+        { "hex": "#9c27b0", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Vintage Pastels",
+      "colors": [
+        { "hex": "#f8bbd0", "textColor": "#000" },
+        { "hex": "#f6c1c1", "textColor": "#000" },
+        { "hex": "#f2b9a1", "textColor": "#000" },
+        { "hex": "#f1e6b2", "textColor": "#000" },
+        { "hex": "#d1e2e2", "textColor": "#000" },
+        { "hex": "#b9d6f3", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Bold Primaries",
+      "colors": [
+        { "hex": "#ff0000", "textColor": "#fff" },
+        { "hex": "#00ff00", "textColor": "#000" },
+        { "hex": "#0000ff", "textColor": "#fff" },
+        { "hex": "#ffff00", "textColor": "#000" },
+        { "hex": "#ff00ff", "textColor": "#fff" },
+        { "hex": "#00ffff", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Earth Tones",
+      "colors": [
+        { "hex": "#8d6e63", "textColor": "#fff" },
+        { "hex": "#6d4c41", "textColor": "#fff" },
+        { "hex": "#4e342e", "textColor": "#fff" },
+        { "hex": "#3e2723", "textColor": "#fff" },
+        { "hex": "#d7ccc8", "textColor": "#000" },
+        { "hex": "#bcaaa4", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Soft Neutrals",
+      "colors": [
+        { "hex": "#fafafa", "textColor": "#000" },
+        { "hex": "#f5f5f5", "textColor": "#000" },
+        { "hex": "#e0e0e0", "textColor": "#000" },
+        { "hex": "#bdbdbd", "textColor": "#000" },
+        { "hex": "#9e9e9e", "textColor": "#fff" },
+        { "hex": "#757575", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Sunset Glow",
+      "colors": [
+        { "hex": "#ff7e5f", "textColor": "#fff" },
+        { "hex": "#feb47b", "textColor": "#000" },
+        { "hex": "#ff9a8b", "textColor": "#000" },
+        { "hex": "#ff6f61", "textColor": "#fff" },
+        { "hex": "#ff4b2b", "textColor": "#fff" },
+        { "hex": "#d84315", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Ocean Breeze",
+      "colors": [
+        { "hex": "#e0f7fa", "textColor": "#000" },
+        { "hex": "#b2ebf2", "textColor": "#000" },
+        { "hex": "#80deea", "textColor": "#000" },
+        { "hex": "#4dd0e1", "textColor": "#000" },
+        { "hex": "#26c6da", "textColor": "#fff" },
+        { "hex": "#00acc1", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Rustic Warmth",
+      "colors": [
+        { "hex": "#c9cba3", "textColor": "#000" },
+        { "hex": "#b89d8e", "textColor": "#000" },
+        { "hex": "#a87c6f", "textColor": "#fff" },
+        { "hex": "#8e5a3c", "textColor": "#fff" },
+        { "hex": "#7b4f38", "textColor": "#fff" },
+        { "hex": "#6f4e37", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Urban Chic",
+      "colors": [
+        { "hex": "#333333", "textColor": "#fff" },
+        { "hex": "#4d4d4d", "textColor": "#fff" },
+        { "hex": "#666666", "textColor": "#000" },
+        { "hex": "#808080", "textColor": "#000" },
+        { "hex": "#999999", "textColor": "#000" },
+        { "hex": "#b3b3b3", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Warm Embrace",
+      "colors": [
+        { "hex": "#fbe9e7", "textColor": "#000" },
+        { "hex": "#ffccbc", "textColor": "#000" },
+        { "hex": "#ffab91", "textColor": "#000" },
+        { "hex": "#ff8a65", "textColor": "#000" },
+        { "hex": "#ff7043", "textColor": "#fff" },
+        { "hex": "#f4511e", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Modern Serenity",
+      "colors": [
+        { "hex": "#b0bec5", "textColor": "#000" },
+        { "hex": "#90a4ae", "textColor": "#000" },
+        { "hex": "#78909c", "textColor": "#fff" },
+        { "hex": "#607d8b", "textColor": "#fff" },
+        { "hex": "#546e7a", "textColor": "#fff" },
+        { "hex": "#455a64", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Warm Autumn",
+      "colors": [
+        { "hex": "#ff6f61", "textColor": "#fff" },
+        { "hex": "#ff8a65", "textColor": "#fff" },
+        { "hex": "#ffab91", "textColor": "#000" },
+        { "hex": "#fbc02d", "textColor": "#000" },
+        { "hex": "#ffb300", "textColor": "#000" },
+        { "hex": "#f57f17", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Cool Blues",
+      "colors": [
+        { "hex": "#e3f2fd", "textColor": "#000" },
+        { "hex": "#bbdefb", "textColor": "#000" },
+        { "hex": "#90caf9", "textColor": "#000" },
+        { "hex": "#64b5f6", "textColor": "#000" },
+        { "hex": "#42a5f5", "textColor": "#fff" },
+        { "hex": "#1e88e5", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Earthy Greens",
+      "colors": [
+        { "hex": "#a5d6a7", "textColor": "#000" },
+        { "hex": "#81c784", "textColor": "#000" },
+        { "hex": "#66bb6a", "textColor": "#fff" },
+        { "hex": "#4caf50", "textColor": "#fff" },
+        { "hex": "#388e3c", "textColor": "#fff" },
+        { "hex": "#2c6b2f", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Urban Sunset",
+      "colors": [
+        { "hex": "#ffab91", "textColor": "#000" },
+        { "hex": "#ff8a65", "textColor": "#000" },
+        { "hex": "#ff7043", "textColor": "#fff" },
+        { "hex": "#ff5722", "textColor": "#fff" },
+        { "hex": "#e64a19", "textColor": "#fff" },
+        { "hex": "#d32f2f", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Serene Lagoon",
+      "colors": [
+        { "hex": "#b2ebf2", "textColor": "#000" },
+        { "hex": "#80deea", "textColor": "#000" },
+        { "hex": "#4dd0e1", "textColor": "#000" },
+        { "hex": "#26c6da", "textColor": "#000" },
+        { "hex": "#00acc1", "textColor": "#fff" },
+        { "hex": "#00838f", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Cozy Neutrals",
+      "colors": [
+        { "hex": "#f5f5f5", "textColor": "#000" },
+        { "hex": "#eeeeee", "textColor": "#000" },
+        { "hex": "#e0e0e0", "textColor": "#000" },
+        { "hex": "#bdbdbd", "textColor": "#000" },
+        { "hex": "#9e9e9e", "textColor": "#000" },
+        { "hex": "#757575", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Vibrant Contrast",
+      "colors": [
+        { "hex": "#e57373", "textColor": "#000" },
+        { "hex": "#f06292", "textColor": "#000" },
+        { "hex": "#ba68c8", "textColor": "#fff" },
+        { "hex": "#64b5f6", "textColor": "#fff" },
+        { "hex": "#4db6ac", "textColor": "#fff" },
+        { "hex": "#4caf50", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Luxe Elegance",
+      "colors": [
+        { "hex": "#d1c4e9", "textColor": "#000" },
+        { "hex": "#b39ddb", "textColor": "#000" },
+        { "hex": "#9575cd", "textColor": "#fff" },
+        { "hex": "#7e57c2", "textColor": "#fff" },
+        { "hex": "#673ab7", "textColor": "#fff" },
+        { "hex": "#512da8", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Classic Monochrome",
+      "colors": [
+        { "hex": "#000000", "textColor": "#fff" },
+        { "hex": "#333333", "textColor": "#fff" },
+        { "hex": "#666666", "textColor": "#fff" },
+        { "hex": "#999999", "textColor": "#000" },
+        { "hex": "#cccccc", "textColor": "#000" },
+        { "hex": "#ffffff", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Vibrant Garden",
+      "colors": [
+        { "hex": "#ffeb3b", "textColor": "#000" },
+        { "hex": "#cddc39", "textColor": "#000" },
+        { "hex": "#4caf50", "textColor": "#fff" },
+        { "hex": "#009688", "textColor": "#fff" },
+        { "hex": "#00bcd4", "textColor": "#000" },
+        { "hex": "#2196f3", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Retro Pastels",
+      "colors": [
+        { "hex": "#f8bbd0", "textColor": "#000" },
+        { "hex": "#f48fb1", "textColor": "#000" },
+        { "hex": "#f06292", "textColor": "#fff" },
+        { "hex": "#ba68c8", "textColor": "#fff" },
+        { "hex": "#9575cd", "textColor": "#fff" },
+        { "hex": "#64b5f6", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Energetic Citrus",
+      "colors": [
+        { "hex": "#ffeb3b", "textColor": "#000" },
+        { "hex": "#ff9800", "textColor": "#000" },
+        { "hex": "#ff5722", "textColor": "#fff" },
+        { "hex": "#e64a19", "textColor": "#fff" },
+        { "hex": "#d32f2f", "textColor": "#fff" },
+        { "hex": "#c2185b", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Soothing Blues",
+      "colors": [
+        { "hex": "#e3f2fd", "textColor": "#000" },
+        { "hex": "#bbdefb", "textColor": "#000" },
+        { "hex": "#90caf9", "textColor": "#000" },
+        { "hex": "#64b5f6", "textColor": "#000" },
+        { "hex": "#42a5f5", "textColor": "#fff" },
+        { "hex": "#1e88e5", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Warm Neutrals",
+      "colors": [
+        { "hex": "#f5f5f5", "textColor": "#000" },
+        { "hex": "#e0e0e0", "textColor": "#000" },
+        { "hex": "#bdbdbd", "textColor": "#000" },
+        { "hex": "#9e9e9e", "textColor": "#000" },
+        { "hex": "#757575", "textColor": "#fff" },
+        { "hex": "#424242", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "colors": [
+        { "hex": "#dbe5e4", "textColor": "#000" },
+        { "hex": "#b5b2a8", "textColor": "#000" },
+        { "hex": "#8c8c6c", "textColor": "#000" },
+        { "hex": "#6e6e40", "textColor": "#fff" },
+        { "hex": "#4e4e32", "textColor": "#fff" },
+        { "hex": "#2e2e1c", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Bright Contrasts",
+      "colors": [
+        { "hex": "#f44336", "textColor": "#fff" },
+        { "hex": "#e91e63", "textColor": "#fff" },
+        { "hex": "#9c27b0", "textColor": "#fff" },
+        { "hex": "#673ab7", "textColor": "#fff" },
+        { "hex": "#3f51b5", "textColor": "#fff" },
+        { "hex": "#2196f3", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Elegant Grays",
+      "colors": [
+        { "hex": "#fafafa", "textColor": "#000" },
+        { "hex": "#f0f0f0", "textColor": "#000" },
+        { "hex": "#e0e0e0", "textColor": "#000" },
+        { "hex": "#c0c0c0", "textColor": "#000" },
+        { "hex": "#a0a0a0", "textColor": "#000" },
+        { "hex": "#808080", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Subtle Hues",
+      "colors": [
+        { "hex": "#f3e5f5", "textColor": "#000" },
+        { "hex": "#e1bee7", "textColor": "#000" },
+        { "hex": "#ce93d8", "textColor": "#000" },
+        { "hex": "#ab47bc", "textColor": "#fff" },
+        { "hex": "#8e24aa", "textColor": "#fff" },
+        { "hex": "#6a1b9a", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Sunset Warmth",
+      "colors": [
+        { "hex": "#ff6f61", "textColor": "#fff" },
+        { "hex": "#ff8a65", "textColor": "#000" },
+        { "hex": "#ffab91", "textColor": "#000" },
+        { "hex": "#ffccbc", "textColor": "#000" },
+        { "hex": "#f8bbd0", "textColor": "#000" },
+        { "hex": "#f48fb1", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Fresh Greens",
+      "colors": [
+        { "hex": "#e8f5e9", "textColor": "#000" },
+        { "hex": "#c8e6c9", "textColor": "#000" },
+        { "hex": "#a5d6a7", "textColor": "#000" },
+        { "hex": "#81c784", "textColor": "#000" },
+        { "hex": "#66bb6a", "textColor": "#000" },
+        { "hex": "#4caf50", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Cool Blues",
+      "colors": [
+        { "hex": "#e3f2fd", "textColor": "#000" },
+        { "hex": "#bbdefb", "textColor": "#000" },
+        { "hex": "#90caf9", "textColor": "#000" },
+        { "hex": "#64b5f6", "textColor": "#000" },
+        { "hex": "#42a5f5", "textColor": "#fff" },
+        { "hex": "#1e88e5", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Autumn Vibes",
+      "colors": [
+        { "hex": "#ffebee", "textColor": "#000" },
+        { "hex": "#f8bbd0", "textColor": "#000" },
+        { "hex": "#f48fb1", "textColor": "#000" },
+        { "hex": "#ce93d8", "textColor": "#000" },
+        { "hex": "#ba68c8", "textColor": "#fff" },
+        { "hex": "#ab47bc", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Urban Cool",
+      "colors": [
+        { "hex": "#eceff1", "textColor": "#000" },
+        { "hex": "#cfd8dc", "textColor": "#000" },
+        { "hex": "#b0bec5", "textColor": "#000" },
+        { "hex": "#90a4ae", "textColor": "#000" },
+        { "hex": "#78909c", "textColor": "#fff" },
+        { "hex": "#607d8b", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Ocean Breeze",
+      "colors": [
+        { "hex": "#b3e5fc", "textColor": "#000" },
+        { "hex": "#81d4fa", "textColor": "#000" },
+        { "hex": "#4fc3f7", "textColor": "#000" },
+        { "hex": "#29b6f6", "textColor": "#fff" },
+        { "hex": "#03a9f4", "textColor": "#fff" },
+        { "hex": "#0288d1", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Warm Sunset",
+      "colors": [
+        { "hex": "#ffebee", "textColor": "#000" },
+        { "hex": "#f8bbd0", "textColor": "#000" },
+        { "hex": "#f48fb1", "textColor": "#000" },
+        { "hex": "#f06292", "textColor": "#fff" },
+        { "hex": "#d81b60", "textColor": "#fff" },
+        { "hex": "#c2185b", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Elegant Purples",
+      "colors": [
+        { "hex": "#f3e5f5", "textColor": "#000" },
+        { "hex": "#e1bee7", "textColor": "#000" },
+        { "hex": "#ce93d8", "textColor": "#000" },
+        { "hex": "#ab47bc", "textColor": "#fff" },
+        { "hex": "#8e24aa", "textColor": "#fff" },
+        { "hex": "#6a1b9a", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Minimalist Neutrals",
+      "colors": [
+        { "hex": "#f5f5f5", "textColor": "#000" },
+        { "hex": "#eeeeee", "textColor": "#000" },
+        { "hex": "#e0e0e0", "textColor": "#000" },
+        { "hex": "#bdbdbd", "textColor": "#000" },
+        { "hex": "#9e9e9e", "textColor": "#000" },
+        { "hex": "#616161", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Radiant Reds",
+      "colors": [
+        { "hex": "#ffebee", "textColor": "#000" },
+        { "hex": "#f8bbd0", "textColor": "#000" },
+        { "hex": "#f48fb1", "textColor": "#000" },
+        { "hex": "#f06292", "textColor": "#fff" },
+        { "hex": "#d81b60", "textColor": "#fff" },
+        { "hex": "#c2185b", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Soft Pinks",
+      "colors": [
+        { "hex": "#fce4ec", "textColor": "#000" },
+        { "hex": "#f8bbd0", "textColor": "#000" },
+        { "hex": "#f48fb1", "textColor": "#000" },
+        { "hex": "#f06292", "textColor": "#fff" },
+        { "hex": "#ec407a", "textColor": "#fff" },
+        { "hex": "#d81b60", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Summer Breeze",
+      "colors": [
+        { "hex": "#e0f7fa", "textColor": "#000" },
+        { "hex": "#b2ebf2", "textColor": "#000" },
+        { "hex": "#80deea", "textColor": "#000" },
+        { "hex": "#4dd0e1", "textColor": "#fff" },
+        { "hex": "#26c6da", "textColor": "#fff" },
+        { "hex": "#00bcd4", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Warm Earth",
+      "colors": [
+        { "hex": "#efebe9", "textColor": "#000" },
+        { "hex": "#d7ccc8", "textColor": "#000" },
+        { "hex": "#bcaaa4", "textColor": "#000" },
+        { "hex": "#a1887f", "textColor": "#000" },
+        { "hex": "#8d6e63", "textColor": "#fff" },
+        { "hex": "#6d4c41", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Soft Neutrals",
+      "colors": [
+        { "hex": "#fafafa", "textColor": "#000" },
+        { "hex": "#f5f5f5", "textColor": "#000" },
+        { "hex": "#eeeeee", "textColor": "#000" },
+        { "hex": "#e0e0e0", "textColor": "#000" },
+        { "hex": "#bdbdbd", "textColor": "#000" },
+        { "hex": "#9e9e9e", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Vibrant Sunset",
+      "colors": [
+        { "hex": "#ffeb3b", "textColor": "#000" },
+        { "hex": "#ff9800", "textColor": "#000" },
+        { "hex": "#ff5722", "textColor": "#fff" },
+        { "hex": "#e91e63", "textColor": "#fff" },
+        { "hex": "#9c27b0", "textColor": "#fff" },
+        { "hex": "#673ab7", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Calm Blues",
+      "colors": [
+        { "hex": "#e3f2fd", "textColor": "#000" },
+        { "hex": "#bbdefb", "textColor": "#000" },
+        { "hex": "#90caf9", "textColor": "#000" },
+        { "hex": "#64b5f6", "textColor": "#000" },
+        { "hex": "#42a5f5", "textColor": "#fff" },
+        { "hex": "#1e88e5", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Rich Browns",
+      "colors": [
+        { "hex": "#efebe9", "textColor": "#000" },
+        { "hex": "#d7ccc8", "textColor": "#000" },
+        { "hex": "#bcaaa4", "textColor": "#000" },
+        { "hex": "#a1887f", "textColor": "#000" },
+        { "hex": "#8d6e63", "textColor": "#000" },
+        { "hex": "#6d4c41", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Elegant Golds",
+      "colors": [
+        { "hex": "#fff9c4", "textColor": "#000" },
+        { "hex": "#fff59d", "textColor": "#000" },
+        { "hex": "#fff176", "textColor": "#000" },
+        { "hex": "#fdd835", "textColor": "#000" },
+        { "hex": "#fbc02d", "textColor": "#000" },
+        { "hex": "#f9a825", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Muted Pastels",
+      "colors": [
+        { "hex": "#fce4ec", "textColor": "#000" },
+        { "hex": "#f8bbd0", "textColor": "#000" },
+        { "hex": "#f48fb1", "textColor": "#000" },
+        { "hex": "#f06292", "textColor": "#fff" },
+        { "hex": "#ec407a", "textColor": "#fff" },
+        { "hex": "#d81b60", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Subtle Grays",
+      "colors": [
+        { "hex": "#f5f5f5", "textColor": "#000" },
+        { "hex": "#eeeeee", "textColor": "#000" },
+        { "hex": "#e0e0e0", "textColor": "#000" },
+        { "hex": "#bdbdbd", "textColor": "#000" },
+        { "hex": "#9e9e9e", "textColor": "#000" },
+        { "hex": "#757575", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Warm Hues",
+      "colors": [
+        { "hex": "#ffccbc", "textColor": "#000" },
+        { "hex": "#ffab91", "textColor": "#000" },
+        { "hex": "#ff8a65", "textColor": "#000" },
+        { "hex": "#ff7043", "textColor": "#fff" },
+        { "hex": "#ff5722", "textColor": "#fff" },
+        { "hex": "#f4511e", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Gentle Greens",
+      "colors": [
+        { "hex": "#e8f5e9", "textColor": "#000" },
+        { "hex": "#c8e6c9", "textColor": "#000" },
+        { "hex": "#a5d6a7", "textColor": "#000" },
+        { "hex": "#81c784", "textColor": "#000" },
+        { "hex": "#66bb6a", "textColor": "#000" },
+        { "hex": "#43a047", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Electric Blues",
+      "colors": [
+        { "hex": "#e3f2fd", "textColor": "#000" },
+        { "hex": "#bbdefb", "textColor": "#000" },
+        { "hex": "#90caf9", "textColor": "#000" },
+        { "hex": "#64b5f6", "textColor": "#000" },
+        { "hex": "#42a5f5", "textColor": "#fff" },
+        { "hex": "#1e88e5", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Earthy Tones",
+      "colors": [
+        { "hex": "#dbe5d2", "textColor": "#000" },
+        { "hex": "#c4d0b0", "textColor": "#000" },
+        { "hex": "#9fbc8f", "textColor": "#000" },
+        { "hex": "#7a9a5e", "textColor": "#fff" },
+        { "hex": "#557a41", "textColor": "#fff" },
+        { "hex": "#345b28", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Modern Neutrals",
+      "colors": [
+        { "hex": "#f5f5f5", "textColor": "#000" },
+        { "hex": "#e0e0e0", "textColor": "#000" },
+        { "hex": "#bdbdbd", "textColor": "#000" },
+        { "hex": "#9e9e9e", "textColor": "#000" },
+        { "hex": "#757575", "textColor": "#fff" },
+        { "hex": "#424242", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Warm Pastels",
+      "colors": [
+        { "hex": "#fce4ec", "textColor": "#000" },
+        { "hex": "#f8bbd0", "textColor": "#000" },
+        { "hex": "#f48fb1", "textColor": "#000" },
+        { "hex": "#f06292", "textColor": "#fff" },
+        { "hex": "#ec407a", "textColor": "#fff" },
+        { "hex": "#d81b60", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Cool Greens",
+      "colors": [
+        { "hex": "#e8f5e9", "textColor": "#000" },
+        { "hex": "#c8e6c9", "textColor": "#000" },
+        { "hex": "#a5d6a7", "textColor": "#000" },
+        { "hex": "#81c784", "textColor": "#000" },
+        { "hex": "#66bb6a", "textColor": "#000" },
+        { "hex": "#43a047", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Autumn Leaves",
+      "colors": [
+        { "hex": "#ffebee", "textColor": "#000" },
+        { "hex": "#ffcdd2", "textColor": "#000" },
+        { "hex": "#ef9a9a", "textColor": "#000" },
+        { "hex": "#e57373", "textColor": "#000" },
+        { "hex": "#ef5350", "textColor": "#fff" },
+        { "hex": "#f44336", "textColor": "#fff" }
+      ]
+    },
+    {
+      "name": "Bright Yellows",
+      "colors": [
+        { "hex": "#fffde7", "textColor": "#000" },
+        { "hex": "#fff9c4", "textColor": "#000" },
+        { "hex": "#fff59d", "textColor": "#000" },
+        { "hex": "#fff176", "textColor": "#000" },
+        { "hex": "#fdd835", "textColor": "#000" },
+        { "hex": "#fbc02d", "textColor": "#000" }
+      ]
+    },
+    {
+      "name": "Rich Reds",
+      "colors": [
+        { "hex": "#ffebee", "textColor": "#000" },
+        { "hex": "#ffcdd2", "textColor": "#000" },
+        { "hex": "#ef9a9a", "textColor": "#000" },
+        { "hex": "#e57373", "textColor": "#000" },
+        { "hex": "#ef5350", "textColor": "#fff" },
+        { "hex": "#c62828", "textColor": "#fff" }
+      ]
+    }
+  ]
+}

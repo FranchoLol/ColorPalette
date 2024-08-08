@@ -7,6 +7,29 @@ body {
   font-weight: bold;
   font-family: "Lexend", sans-serif;
 }
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #ff9a8b;
+}
+::-webkit-scrollbar-thumb {
+  background: #ff6a88;
+  border-radius: 10px;
+  min-height: 100px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #cc3f0c;
+}
+::-webkit-scrollbar-thumb:active {
+  background: #cc3f0c;
+}
+::-webkit-scrollbar-thumb:focus {
+  background: #2e1a47;
+}
+::-webkit-scrollbar-thumb:disabled {
+  background: #1b0a2a;
+}
 header {
   width: 100%;
   height: 75px;
@@ -24,7 +47,8 @@ h1 {
   font-size: 40px;
   font-weight: 900;
   font-style: italic;
-  text-shadow: 0 0 5px #ff6a88, 2px 2px 0 #ff99ac;
+  text-shadow: 0 0 5px #ff6a88,
+               2px 2px 0 #ff99ac;
   color: #ff99ac;
   user-select: none;
 }
@@ -41,7 +65,8 @@ main {
   padding: 10px;
   text-align: center;
   border: 1px solid #2e1a47;
-  box-shadow: 0 0 5px 2px #cc3f0c, 0 0 5px 1px #2e1a47;
+  box-shadow: 0 0 5px 2px #cc3f0c,
+              0 0 5px 1px #2e1a47;
   border-radius: 20px;
   background-color: #2e1a47;
   user-select: none;
@@ -69,14 +94,14 @@ main {
   justify-content: center;
   font-weight: bold;
   border: 1px solid #ccc;
-  box-shadow: 0 0 5px 2px #cc3f0c, 0 0 5px 1px #aaa;
+  box-shadow: 0 0 5px 2px #cc3f0c,
+              0 0 5px 1px #aaa;
   margin: 0 auto;
   transition: transform 0.3s ease;
 }
 .color-box:hover {
   box-shadow: 0 0 15px 5px #ff6a88;
 }
-/* Estilos para el botón */
 .btnCopys {
   margin-top: 10px;
   padding: 15px 20px;
@@ -91,13 +116,11 @@ main {
   transform: translateZ(50px);
   transition: background-color 0.3s ease;
 }
-
 .btnCopys:hover {
   background-color: #1b0a2a;
   border: 2px solid #2e1a47;
   box-shadow: inset 0 0 5px #2e1a47;
 }
-
 .msg {
   position: fixed;
   top: 50%;
